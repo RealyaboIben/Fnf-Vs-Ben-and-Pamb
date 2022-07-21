@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BenCoolBoi.png"><SubTexture name="BenCoolBoi idle ben0000" x="1093" y="509" width="317" height="509" frameX="-51" frameY="-51" frameWidth="574" frameHeight="574" />
+<SubTexture name="BenCoolBoi idle ben0001" x="284" y="0" width="299" height="524" frameX="-58" frameY="-36" frameWidth="574" frameHeight="574" />
+<SubTexture name="BenCoolBoi idle ben0002" x="0" y="0" width="284" height="526" frameX="-73" frameY="-34" frameWidth="574" frameHeight="574" />
+<SubTexture name="BenCoolBoi idle ben0003" x="583" y="0" width="273" height="518" frameX="-84" frameY="-42" frameWidth="574" frameHeight="574" />
+<SubTexture name="BenCoolBoi sing down0000" x="0" y="1041" width="272" height="467" frameX="-124" frameY="-80" frameWidth="574" frameHeight="574" />
+<SubTexture name="BenCoolBoi sing down0001" x="272" y="1041" width="288" height="466" frameX="-120" frameY="-83" frameWidth="574" frameHeight="574" />
+<SubTexture name="BenCoolBoi sing right0000" x="856" y="0" width="237" height="518" frameX="-129" frameY="-43" frameWidth="574" frameHeight="574" />
+<SubTexture name="BenCoolBoi sing right0001" x="229" y="526" width="264" height="514" frameX="-106" frameY="-47" frameWidth="574" frameHeight="574" />
+<SubTexture name="BenCoolBoi sing left0000" x="493" y="526" width="266" height="513" frameX="-130" frameY="-44" frameWidth="574" frameHeight="574" />
+<SubTexture name="BenCoolBoi sing left0001" x="759" y="526" width="270" height="513" frameX="-131" frameY="-47" frameWidth="574" frameHeight="574" />
+<SubTexture name="BenCoolBoi sing up0000" x="1417" y="0" width="237" height="506" frameX="-132" frameY="-43" frameWidth="574" frameHeight="574" />
+<SubTexture name="BenCoolBoi sing up0001" x="0" y="526" width="229" height="515" frameX="-142" frameY="-34" frameWidth="574" frameHeight="574" />
+</TextureAtlas>

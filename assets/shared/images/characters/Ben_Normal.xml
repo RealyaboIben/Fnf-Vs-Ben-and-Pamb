@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ben_Normal.png">
+<SubTexture name="Idle0000" x="0" y="1317" width="374" height="648" frameX="0" frameY="-11" frameWidth="374" frameHeight="660" />
+<SubTexture name="Idle0001" x="366" y="659" width="373" height="657" frameX="0" frameY="-2" frameWidth="374" frameHeight="660" />
+<SubTexture name="Idle0002" x="0" y="0" width="373" height="659" frameX="0" frameY="0" frameWidth="374" frameHeight="660" />
+<SubTexture name="Idle0003" x="739" y="0" width="373" height="658" frameX="0" frameY="-1" frameWidth="374" frameHeight="660" />
+<SubTexture name="Idle0004" x="739" y="0" width="373" height="658" frameX="0" frameY="-1" frameWidth="374" frameHeight="660" />
+<SubTexture name="Left0000" x="739" y="659" width="361" height="656" frameX="0" frameY="-3" frameWidth="374" frameHeight="660" />
+<SubTexture name="Left0001" x="1478" y="0" width="342" height="652" frameX="-10" frameY="-7" frameWidth="374" frameHeight="660" />
+<SubTexture name="Right0000" x="1820" y="0" width="372" height="649" frameX="0" frameY="-10" frameWidth="374" frameHeight="660" />
+<SubTexture name="Right0001" x="1478" y="652" width="339" height="652" frameX="-17" frameY="-7" frameWidth="374" frameHeight="660" />
+<SubTexture name="Down0000" x="1112" y="0" width="366" height="658" frameX="-4" frameY="0" frameWidth="374" frameHeight="660" />
+<SubTexture name="Down0001" x="373" y="0" width="366" height="659" frameX="-4" frameY="0" frameWidth="374" frameHeight="660" />
+<SubTexture name="Up0000" x="0" y="659" width="366" height="658" frameX="-4" frameY="0" frameWidth="374" frameHeight="660" />
+<SubTexture name="Up0001" x="1100" y="659" width="366" height="653" frameX="-4" frameY="-6" frameWidth="374" frameHeight="660" />
+</TextureAtlas>

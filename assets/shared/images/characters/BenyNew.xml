@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BenyNew.png">
+<SubTexture name="BenyNew idle ben0000" x="0" y="1093" width="293" height="522" frameX="-77" frameY="-54" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew idle ben0001" x="1543" y="0" width="285" height="527" frameX="-82" frameY="-49" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew idle ben0002" x="954" y="556" width="253" height="534" frameX="-87" frameY="-42" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew idle ben0003" x="230" y="556" width="268" height="536" frameX="-85" frameY="-40" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew idle ben0004" x="498" y="556" width="222" height="536" frameX="-80" frameY="-40" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew idle ben0005" x="835" y="0" width="231" height="537" frameX="-78" frameY="-39" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew idle ben0006" x="1066" y="0" width="239" height="537" frameX="-78" frameY="-39" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew sing left0000" x="0" y="556" width="230" height="537" frameX="-65" frameY="-40" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew sing left0001" x="1305" y="0" width="238" height="534" frameX="-56" frameY="-43" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew sing right0000" x="720" y="556" width="234" height="536" frameX="-69" frameY="-40" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew sing right0001" x="604" y="0" width="231" height="538" frameX="-75" frameY="-40" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew sing down0000" x="1543" y="527" width="219" height="516" frameX="-83" frameY="-61" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew sing down0001" x="1305" y="534" width="215" height="516" frameX="-87" frameY="-61" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew sing up0000" x="307" y="0" width="297" height="542" frameX="-83" frameY="-34" frameWidth="380" frameHeight="588" />
+<SubTexture name="BenyNew sing up0001" x="0" y="0" width="307" height="556" frameX="-73" frameY="-20" frameWidth="380" frameHeight="588" />
+</TextureAtlas>
